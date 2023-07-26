@@ -2,7 +2,11 @@
 SPDX-FileCopyrightText: Copyright (c) 2021-2023 NVIDIA CORPORATION & AFFILIATES. All rights reserved.
 SPDX-License-Identifier: Apache-2.0
 -->
-# Sionna: An Open-Source Library for Next-Generation Physical Layer Research
+# Sionna: An Open-Source Library for Next-Generation Physical Layer Research - Now with SDR support
+
+#####################
+Added SDR radio support, under /test directory, example https://github.com/rikluost/sionna/blob/main/test/Sionna_Pluto_SDR.ipynb
+#####################
 
 Sionna&trade; is an open-source Python library for link-level simulations of digital communication systems built on top of the open-source software library [TensorFlow](https://www.tensorflow.org) for machine learning.
 
